@@ -9,7 +9,10 @@ This topic, although quite simple in abstract terms, can be quite challenging to
 beginners that don't have experience with either algorithms or marketing.
 
 The goal with this GitBook is to explain to the average person, how SEO works, and
-how they could apply SEO to their own website to rank it higher
+how they could apply SEO to their own website to rank it higher.
+
+Links in the navigation to the left are just the primary topics of discussion that
+are relevant to SEO.
 
 ## License
 
