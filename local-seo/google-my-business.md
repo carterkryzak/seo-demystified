@@ -1,2 +1,2 @@
-# Google My Business
+# Google Business
 

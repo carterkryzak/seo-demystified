@@ -1,6 +1,6 @@
 # Footprints
 
-There are a lot of factors that would impact your ability to stay under Google's spam radar.
+As private blog networks are against Google's rules, they will always be trying to find anyone who is suspected of cheating the system. There are a lot of factors that would impact your ability to get caught in Google's spam radar. 
 
 ### Domain Whois \(or Privacy\)
 
