@@ -1,4 +1,4 @@
-# README
+# Introduction
 
 Search engine optimization \(commonly referred to as simply SEO\) is the process in which your website becomes closer to the top of search engine results, which comes as a result of you optimizing a variety of factors that search engines take into account when ranking sites.
 
