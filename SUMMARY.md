@@ -5,6 +5,9 @@
 * [Content](content.md)
 * [Keywords](keywords.md)
 * [Links](links.md)
+* [On-page Data](on-page-data.md)
+* [Branding](branding.md)
+* [Social Signals](social-signals.md)
 * [Local SEO](local-seo.md)
 * [Grey and Black Hat SEO](grey-and-black-hat-seo/README.md)
   * [Private Blog Networks](grey-and-black-hat-seo/private-blog-networks/README.md)
@@ -17,4 +20,8 @@
   * [Plagiarism](grey-and-black-hat-seo/plagiarism.md)
   * [Negative SEO](grey-and-black-hat-seo/negative-seo.md)
   * [Deindexing](grey-and-black-hat-seo/deindexing.md)
+* [Practically Ranking](practically-ranking/README.md)
+  * [Planning](practically-ranking/planning.md)
+  * [Building Reputation](practically-ranking/building-reputation.md)
+  * [Attaining Links](practically-ranking/attaining-links.md)
 
