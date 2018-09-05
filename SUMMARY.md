@@ -5,7 +5,7 @@
   * [How Search Engines Work](search-engines/how-search-engines-work.md)
   * [Targeting](search-engines/targeting.md)
 * [Content](content/README.md)
-  * [Crawlers](content/crawlers.md)
+  * [Crawler Capability](content/crawlers.md)
 * [Keywords](keywords/README.md)
   * [Over-optimization](keywords/over-optimization.md)
   * [Research](keywords/research.md)
