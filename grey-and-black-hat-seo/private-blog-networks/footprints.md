@@ -4,6 +4,10 @@ As private blog networks are against Google's rules, they will always be trying 
 
 ### Domain Whois \(or Privacy\)
 
+As you may know already, all domain TLDs controlled under ICANN \(this includes your .coms, .nets, and basically all other domain TLDs\) requires names to be trackable with whois information. Whois information
+
+A common red flag for inexperienced PBN users is when they 
+
 Currently, only about 20% of the domains on the internet have Whois privacy enabled on them. If you are really into PBNs, I would suggest you just use outright fake Whois information, or the information of your friends and family \(assuming they're on board with your plans\).
 
 ### Cloudflare
