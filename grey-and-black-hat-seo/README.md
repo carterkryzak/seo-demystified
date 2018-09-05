@@ -6,7 +6,7 @@ Simply put, black hat SEO is just any form of search engine optimization that se
 
 It may be advantageous for users to think outside the traditional SEO box, which involves trying to improve the popularity of your own brand.
 
-### Not All Black Hat
+### Not all Black-hat is the same
 
 You may have already heard bad things of black-hat SEO. While it is true that most forms of Black Hat SEO serve against the interest of most on the internet who just want to read high quality informational content.
 
