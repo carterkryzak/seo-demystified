@@ -4,7 +4,9 @@ Internet surfers don't have time to look manually through thousands of pages on 
 
 ### Indexing
 
+Indexing is the process in which a search engine bot \(or program\) downloads webpages to parse and collect data from them \(including keywords, domain names, and links\), and further goes into the outbound links of the webpage, creating a list of relevant webpages and sites to show to users.
+
 ### Ordering Results
 
-After a search engine has crawled a large list of websites, and tracked.
+After a search engine has crawled a large list of websites, and made track of all the statistics and data necessary to rank a site in its search database.
 
